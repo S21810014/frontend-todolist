@@ -15,7 +15,7 @@ function Todos() {
     }
 
     return (
-        <div style={{backgroundColor: 'rgba(0, 0, 0, 0.05)'}}>
+        <div>
             <Card style={{
                 margin: '3em 15em 1em 15em',
                 padding: '1.25em',
